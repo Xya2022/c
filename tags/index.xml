@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on XY-Ron</title>
+        <link>https://xya2022.github.io/c/tags/</link>
+        <description>Recent content in Tags on XY-Ron</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Ron</copyright>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://xya2022.github.io/c/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Css</title>
+        <link>https://xya2022.github.io/c/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xya2022.github.io/c/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>https://xya2022.github.io/c/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xya2022.github.io/c/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>https://xya2022.github.io/c/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xya2022.github.io/c/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://xya2022.github.io/c/tags/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xya2022.github.io/c/tags/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tag With Whitespaces</title>
+        <link>https://xya2022.github.io/c/tags/tag-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xya2022.github.io/c/tags/tag-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Text</title>
+        <link>https://xya2022.github.io/c/tags/text/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xya2022.github.io/c/tags/text/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Emoji</title>
+        <link>https://xya2022.github.io/c/tags/emoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xya2022.github.io/c/tags/emoji/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
